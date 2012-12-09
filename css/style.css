@@ -16,5 +16,6 @@ body {
     width:960px;
     height:500px;
     padding:40px;
-    margin:0 auto;
+    margin:50px auto;
 }
+.b-page_background_image {background-image:url(../images/background.png)}
