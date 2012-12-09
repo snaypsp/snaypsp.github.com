@@ -18,7 +18,7 @@ body {
     padding:40px;
     margin:50px auto;
 }
-.b-page_background_image {
+.b-page_background {
     background-image:url(../images/background.png);
     border-radius: 5px;
     -moz-border-radius: 5px;
