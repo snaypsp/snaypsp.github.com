@@ -11,9 +11,10 @@ body {
 
 .b-page {
     color:#000;
-    background:center center no-repeat #222;
+    background:#ccc;
     position:relative;
     width:960px;
+    height:500px;
     padding:40px;
     margin:0 auto;
 }
